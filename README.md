@@ -8,3 +8,6 @@ Four buttons:
 * start/stop
 * reset
 * setup
+
+CMake based on CMake-AVR taken from:
+https://github.com/acristoffers/CMake-AVR
